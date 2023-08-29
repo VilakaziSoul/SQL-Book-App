@@ -12,7 +12,6 @@ This project is a simple SQL-based application for managing a bookstore's invent
   - [Installation](#installation)
 - [Usage](#usage)
   - [Running the Application](#running-the-application)
-  - [Available Options](#available-options)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,14 +40,7 @@ This project is a simple SQL-based application for managing a bookstore's invent
    git clone https://github.com/your-username/sql-bookstore-project.git
 2. Navigate to the project directory:
    cd sql-bookstore-project
-3. Create a virtual environment (optional):
-   python -m venv venv
-4. Activate the virtual environment:
-  ```Windows
-   venv\Scripts\activate
-  ```macOS and Linux
-   source venv/bin/activate
-5. Install the required Python packages:
+4. Install the required Python packages:
    pip install -r requirements.txt
 
 ### Usage
